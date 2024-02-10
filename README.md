@@ -1,2 +1,2 @@
-# Clinic-
+# ClinicPham
 Mini Project
